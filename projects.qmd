@@ -1,9 +1,9 @@
 # Projects
 
-## Project One
+## Latent class analysis
 
-Improving the active Crohn’s disease reference standard: Comparative evaluation of latent class analysis and expert panel consensus
+### Latent class analysis for the reference standard of active Crohn's disease
+https://doi.org/10.21203/rs.3.rs-7179076/v1
 
-## Project Two
-
-Latent class analysis for interim analysis of multi-rater multi-case diagnostic test accuracy studies
+### Latent class analysis for the interim analysis of multi-rater multi-case diagnostic test accuracy studies
+https://doi.org/10.21203/rs.3.rs-9021498/v1
