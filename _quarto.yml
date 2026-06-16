@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Tom Parry"
+  site-url: "https://tomwparry.github.io"
 
   navbar:
     left:
