@@ -96,12 +96,12 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
-<span class="menu-text">About</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link active" href="./projects.html" aria-current="page"> 
 <span class="menu-text">Projects</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./pubs.html"> 
+<span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./blog.html"> 
@@ -127,15 +127,18 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="projects" class="level1">
 <h1>Projects</h1>
-<section id="project-one" class="level2">
-<h2 class="anchored" data-anchor-id="project-one">Project One</h2>
-<p>Improving the active Crohn’s disease reference standard: Comparative evaluation of latent class analysis and expert panel consensus</p>
+<section id="latent-class-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="latent-class-analysis">Latent class analysis</h2>
+<section id="latent-class-analysis-for-the-reference-standard-of-active-crohns-disease" class="level3">
+<h3 class="anchored" data-anchor-id="latent-class-analysis-for-the-reference-standard-of-active-crohns-disease">Latent class analysis for the reference standard of active Crohn’s disease</h3>
+<p>https://doi.org/10.21203/rs.3.rs-7179076/v1</p>
 </section>
-<section id="project-two" class="level2">
-<h2 class="anchored" data-anchor-id="project-two">Project Two</h2>
-<p>Latent class analysis for interim analysis of multi-rater multi-case diagnostic test accuracy studies</p>
+<section id="latent-class-analysis-for-the-interim-analysis-of-multi-rater-multi-case-diagnostic-test-accuracy-studies" class="level3">
+<h3 class="anchored" data-anchor-id="latent-class-analysis-for-the-interim-analysis-of-multi-rater-multi-case-diagnostic-test-accuracy-studies">Latent class analysis for the interim analysis of multi-rater multi-case diagnostic test accuracy studies</h3>
+<p>https://doi.org/10.21203/rs.3.rs-9021498/v1</p>
 
 
+</section>
 </section>
 </section>
 
@@ -213,7 +216,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/tomwparry\.github\.io");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
