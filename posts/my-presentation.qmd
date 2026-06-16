@@ -1,0 +1,12 @@
+---
+title: "RADIANT AGM 2026 Talk"
+date: "2026-06-16"
+---
+
+I presented these slides at the RADIANT AGM 2026.
+
+<iframe
+src="../files/RADIANT AGM 2026 talk.pdf"
+width="100%"
+height="800px">
+</iframe>

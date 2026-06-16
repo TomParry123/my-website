@@ -1,0 +1,29 @@
+{
+  "about.qmd": {
+    "about.html": "450553b0"
+  },
+  "index.qmd": {
+    "index.html": "70f5e6ff"
+  },
+  "projects.qmd": {
+    "projects.html": "78381845"
+  },
+  "posts/blog.qmd": {
+    "blog.html": "5fece2df"
+  },
+  "posts/first-post.qmd": {
+    "first-post.html": "daf9647d"
+  },
+  "blog.qmd": {
+    "blog.html": "2b2368a4"
+  },
+  "projects_files/libs/posts/first-post.qmd": {
+    "first-post.html": "3e415bc7"
+  },
+  "projects_files/libs/posts/my-presentation.qmd": {
+    "my-presentation.html": "e4f3dec0"
+  },
+  "posts/my-presentation.qmd": {
+    "my-presentation.html": "3323fc06"
+  }
+}

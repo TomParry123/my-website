@@ -1,0 +1,12 @@
+# Tom Parry
+
+Welcome to my website.
+
+## About Me
+
+I am a medical statistican funded by the NIHR Doctoral Fellowship.
+
+## Projects
+
+- Improving the active Crohn’s disease reference standard: Comparative evaluation of latent class analysis and expert panel consensus
+- Latent class analysis for interim analysis of multi-rater multi-case diagnostic test accuracy studies
